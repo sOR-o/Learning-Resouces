@@ -1,0 +1,55 @@
+# Essential Mathematics Topics for Machine Learning Beginners
+
+If you're just starting out in machine learning, having a solid foundation in mathematics is essential. 
+This text file lists the key mathematical topics that you should familiarize yourself-
+with to better understand the underlying concepts and algorithms in machine learning.
+
+1. Linear Algebra:
+   - Vectors and Matrices
+   - Matrix Operations (Addition, Subtraction, Multiplication)
+   - Matrix Transpose and Inverse
+   - Eigenvalues and Eigenvectors
+   - Dot Product and Vector Norms
+
+2. Calculus:
+   - Differentiation (Derivatives, Gradient)
+   - Integration (Definite and Indefinite Integrals)
+   - Partial Derivatives
+   - Optimization (Minima, Maxima)
+
+3. Probability Theory and Statistics:
+   - Probability Basics (Events, Probability Distributions, Bayes' Theorem)
+   - Random Variables and Probability Distributions (Gaussian, Bernoulli, etc.)
+   - Descriptive Statistics (Mean, Median, Mode, Variance)
+   - Hypothesis Testing and Confidence Intervals
+   - Linear Regression and Correlation
+
+4. Multivariable Calculus:
+   - Partial Derivatives and Gradients in Multiple Variables
+   - Chain Rule and Jacobian Matrix
+   - Optimization in Multiple Variables
+
+5. Optimization Techniques:
+   - Gradient Descent
+   - Stochastic Gradient Descent
+   - Regularization (L1, L2)
+
+6. Linear Algebra for Machine Learning:
+   - Singular Value Decomposition (SVD)
+   - Principal Component Analysis (PCA)
+
+7. Probability and Information Theory:
+   - Entropy and Cross-Entropy
+   - Conditional Probability and Chain Rule
+   - Maximum Likelihood Estimation
+
+8. Numerical Computing:
+   - Floating Point Arithmetic
+   - Numerical Stability
+   - Numerical Optimization
+
+It's important to note that this is not an exhaustive list, but it covers the fundamental mathematical concepts that will greatly benefit your understanding of machine learning. 
+Feel free to explore these topics in depth through textbooks, online courses, or other learning resources that i will be posting shortly.
+
+Remember, learning mathematics is an ongoing process, and continuous practice and application will solidify your understanding of these concepts. 
+Enjoy your journey into the fascinating world of machine learning!
