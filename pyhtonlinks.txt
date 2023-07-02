@@ -1,0 +1,59 @@
+1. Python Programming Basics:
+   - Video Resource: Python Tutorial for Beginners - Corey Schafer
+     - URL: https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+   - Notes Resource: Python Crash Course - Eric Matthes
+     - URL: https://ehmatthes.github.io/pcc_2e/
+
+2. Object-Oriented Programming (OOP) in Python:
+   - Video Resource: Python OOP Tutorial - Corey Schafer
+     - URL: https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+   - Notes Resource: Python OOP - Real Python
+     - URL: https://realpython.com/python3-object-oriented-programming/
+
+3. Data Structures in Python:
+   - Video Resource: Python Data Structures - Corey Schafer
+     - URL: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
+   - Notes Resource: Python Data Structures - Programiz
+     - URL: https://www.programiz.com/python-programming/data-structures
+
+4. File Handling in Python:
+   - Video Resource: Python File Handling - Corey Schafer
+     - URL: https://www.youtube.com/playlist?list=PL-osiE80TeTs_W9Xx-WRBlQFDDwVxzWGA
+   - Notes Resource: Python File Handling - GeeksforGeeks
+     - URL: https://www.geeksforgeeks.org/file-handling-python/
+
+5. Regular Expressions in Python:
+   - Video Resource: Python Regular Expressions - Corey Schafer
+     - URL: https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+   - Notes Resource: Regular Expressions - Python Documentation
+     - URL: https://docs.python.org/3/library/re.html
+
+6. Python Libraries and Packages:
+   - Video Resource: Python Libraries and Packages - Corey Schafer
+     - URL: https://www.youtube.com/playlist?list=PL-osiE80TeTsWoOv3mFXwZerBmjexKklJ
+   - Notes Resource: Python Standard Library - Python Documentation
+     - URL: https://docs.python.org/3/library/
+
+7. NumPy:
+   - Video Resource: NumPy Tutorial - Corey Schafer
+     - URL: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
+   - Notes Resource: NumPy User Guide - NumPy Documentation
+     - URL: https://numpy.org/doc/stable/user/
+
+8. Pandas:
+   - Video Resource: Pandas Tutorial - Corey Schafer
+     - URL: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
+   - Notes Resource: Pandas User Guide - Pandas Documentation
+     - URL: https://pandas.pydata.org/docs/user_guide/index.html
+
+9. Matplotlib:
+   - Video Resource: Matplotlib Tutorial - Corey Schafer
+     - URL: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+   - Notes Resource: Matplotlib Tutorials - Matplotlib Documentation
+     - URL: https://matplotlib.org/stable/tutorials/index.html
+
+10. Scikit-learn:
+    - Video Resource: Scikit-learn Tutorial - Corey Schafer
+      - URL: https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
+    - Notes Resource: Scikit-learn User Guide - Scikit-learn Documentation
+      - URL: https://scikit-learn.org/stable/user_guide.html

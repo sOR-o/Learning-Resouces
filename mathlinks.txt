@@ -1,0 +1,47 @@
+1. Linear Algebra:
+   - Video Resource: MIT Linear Algebra - Gilbert Strang
+     - URL: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+   - Notes Resource: Essence of Linear Algebra - 3Blue1Brown
+     - URL: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+2. Calculus:
+   - Video Resource: Khan Academy Calculus
+     - URL: https://www.khanacademy.org/math/calculus-1
+   - Notes Resource: Paul's Online Math Notes - Calculus
+     - URL: https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx
+
+3. Probability Theory and Statistics:
+   - Video Resource: Harvard Stat 110 - Probability
+     - URL: https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
+   - Notes Resource: Statistics and Probability - Khan Academy
+     - URL: https://www.khanacademy.org/math/statistics-probability
+
+4. Multivariable Calculus:
+   - Video Resource: MIT Multivariable Calculus - Denis Auroux
+     - URL: https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/
+   - Notes Resource: Paul's Online Math Notes - Multivariable Calculus
+     - URL: https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx
+
+5. Optimization Techniques:
+   - Video Resource: Convex Optimization - Stephen Boyd
+     - URL: https://www.youtube.com/playlist?list=PL3940DD956CDF0622
+   - Notes Resource: Convex Optimization - Stanford University
+     - URL: https://web.stanford.edu/class/ee364a/
+
+6. Linear Algebra for Machine Learning:
+   - Video Resource: Linear Algebra for Machine Learning - DataCamp
+     - URL: https://www.datacamp.com/courses/linear-algebra-for-machine-learning
+   - Notes Resource: Linear Algebra for Machine Learning - Towards Data Science
+     - URL: https://towardsdatascience.com/linear-algebra-for-machine-learning-7f8d2a70fc5
+
+7. Probability and Information Theory:
+   - Video Resource: Information Theory, Pattern Recognition, and Neural Networks - David MacKay
+     - URL: https://www.inference.org.uk/mackay/itila/
+   - Notes Resource: Information Theory - Khan Academy
+     - URL: https://www.khanacademy.org/computing/computer-science/informationtheory
+
+8. Numerical Computing:
+   - Video Resource: Numerical Computing with Python - SciPy
+     - URL: https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf
+   - Notes Resource: Numerical Methods - Tutorials Point
+     - URL: https://www.tutorialspoint.com/numerical_methods/index.htm
