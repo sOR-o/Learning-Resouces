@@ -1,0 +1,59 @@
+1. Linear Regression:
+   - Video Resource: Linear Regression - Andrew Ng
+     - URL: https://www.coursera.org/learn/machine-learning
+   - Notes Resource: Linear Regression - Towards Data Science
+     - URL: https://towardsdatascience.com/linear-regression-implementation-in-python-7325acec5745
+
+2. Logistic Regression:
+   - Video Resource: Logistic Regression - Andrew Ng
+     - URL: https://www.coursera.org/learn/machine-learning
+   - Notes Resource: Logistic Regression - Towards Data Science
+     - URL: https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+
+3. Decision Trees:
+   - Video Resource: Decision Trees - StatQuest with Josh Starmer
+     - URL: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+   - Notes Resource: Decision Trees - Towards Data Science
+     - URL: https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
+
+4. Random Forest:
+   - Video Resource: Random Forest - StatQuest with Josh Starmer
+     - URL: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+   - Notes Resource: Random Forest - Towards Data Science
+     - URL: https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76
+
+5. Support Vector Machines (SVM):
+   - Video Resource: Support Vector Machines - StatQuest with Josh Starmer
+     - URL: https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
+   - Notes Resource: Support Vector Machines - Towards Data Science
+     - URL: https://towardsdatascience.com/support-vector-machines-svm-clearly-explained-a-python-tutorial-for-classification-problems-29c539f3ad8
+
+6. Naive Bayes:
+   - Video Resource: Naive Bayes - StatQuest with Josh Starmer
+     - URL: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+   - Notes Resource: Naive Bayes - Towards Data Science
+     - URL: https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c
+
+7. K-Nearest Neighbors (KNN):
+   - Video Resource: K-Nearest Neighbors - StatQuest with Josh Starmer
+     - URL: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+   - Notes Resource: K-Nearest Neighbors - Towards Data Science
+     - URL: https://towardsdatascience.com/knn-for-classification-17cfc6d2d5d
+
+8. K-Means Clustering:
+   - Video Resource: K-Means Clustering - StatQuest with Josh Starmer
+     - URL: https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
+   - Notes Resource: K-Means Clustering - Towards Data Science
+     - URL: https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
+
+9. Neural Networks:
+   - Video Resource: Neural Networks - 3Blue1Brown
+     - URL: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+   - Notes Resource: Neural Networks - Towards Data Science
+     - URL: https://towardsdatascience.com/introduction-to-neural-networks-6ccc68bfe12f
+
+10. Gradient Boosting:
+    - Video Resource: Gradient Boosting - StatQuest with Josh Starmer
+      - URL: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+    - Notes Resource: Gradient Boosting - Towards Data Science
+      - URL: https://towardsdatascience.com/gradient-boosting-explained-9fc5709ff02b
