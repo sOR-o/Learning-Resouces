@@ -1,0 +1,27 @@
+Supervised Machine Learning
+Supervised Machine Learning: In supervised machine learning, you work with training data that consists of examples demonstrating the relationship between an
+ input variable (commonly denoted as "x") and an output variable (commonly denoted as "y"). The goal is to predict the output "y" for new, 
+ unseen test data for which only the input "x" is known. This process involves using a mathematical model or method adapted to the training data and 
+ typically requires computations performed on a computer.
+
+Learning from Labelled Data: In most real-world supervised machine learning applications, the relationship between the input "x" and output "y" is complex
+ and challenging to describe explicitly. It may be too intricate or not fully understood from domain knowledge. Consequently, it's not feasible to solve the
+  problem by writing a traditional computer program with predefined rules. Instead, supervised machine learning involves learning this relationship from data, 
+  which contains observed pairs of input and output values. Essentially, it's about learning from examples.
+
+Training Data: The data used for learning is referred to as "training data," and it consists of multiple input-output data points or samples, denoted as 
+(xi, yi), with a total of "n" samples. These samples are assumed to be independent in most cases, excluding applications like time series analysis, where 
+the correlation between consecutive samples is of interest. The fact that training data contains both input values "x" and output values "y" is why it's 
+called "supervised" machine learning.
+
+Input and Output Terminology: Inputs ("x") are sometimes referred to as features, attributes, predictors, regressors, covariates, explanatory variables, 
+controlled variables, or independent variables. Outputs ("y") can be called responses, regressands, labels, explained variables, predicted variables, 
+or dependent variables.
+
+Data Types: Data variables can be categorized into two types: numerical and categorical. Numerical variables have a natural ordering, 
+allowing for comparisons of magnitude. Categorical variables, on the other hand, are discrete and lack natural ordering. 
+They have a finite set of distinct values. The choice between numerical and categorical often depends on the specific problem and the machine learning 
+engineer's judgment.
+
+This distinction between numerical and categorical variables applies to both the input variables ("x") and the output variable ("y"). 
+It's possible to have a mix of numerical and categorical inputs in a machine learning problem.

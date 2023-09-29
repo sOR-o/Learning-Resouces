@@ -1,0 +1,27 @@
+Introduction
+
+Machine learning involves the processes of learning, reasoning, and decision-making based on data. 
+This is achieved by developing computer programs that process data, extract valuable insights, make predictions about unknown properties, 
+and recommend appropriate actions or decisions. What distinguishes data analysis as machine learning is the automation of these processes, 
+where computer programs are trained to adapt to application-specific scenarios by adjusting their settings based on observed training data. 
+In essence, machine learning can be regarded as a form of programming by example. The versatility of machine learning lies in its ability to handle various types of data, 
+and it offers general methods applicable to a wide range of practical domains. In this paper, we illustrate this versatility through various examples.
+
+The term 'generic computer program' in the context above corresponds to a mathematical model of the data. Consequently, 
+when describing different machine learning methods, we employ mathematical language to define relationships between the observed data, relevant variables, 
+and the properties of interest, such as predictions or actions. This mathematical model serves as a concise representation of the data, 
+capturing essential characteristics of the phenomenon under investigation. The choice of which model to employ is often guided by insights gained from examining the available data and the practitioner's domain-specific knowledge. 
+When implementing these methods in practice, the mathematical model is translated into executable computer code. However, comprehending the underlying mathematics is crucial for a deep understanding of the functioning of the computer program.
+
+As previously mentioned, the model (or computer program) is learned based on available training data. 
+This learning process is accomplished through the utilization of a learning algorithm capable of automatically adjusting the model's parameters to align 
+with the data. In summary, the fundamental components of machine learning can be summarized as follows:
+
+The Data
+The Mathematical Model
+The Learning Algorithm
+
+In this introductory chapter, we aim to provide an overview of the machine learning problem by illustrating these foundational elements with several 
+diverse examples from various application domains. Despite their differences, these examples can all be addressed using similar machine learning techniques. 
+Additionally, we offer guidance on how to navigate the rest of this paper. Finally, we provide references to recommended books on machine learning for 
+readers interested in delving deeper into this subject.
